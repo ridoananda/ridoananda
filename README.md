@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Rido Ananda
 
-<!--
-**ridoananda/ridoananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**PHP and Javascript Programmer from Indonesian**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working a freelancer
+- 🌱 I’m currently learning Javascript Framework like Vue js, React
+
+- 💬 Ask me about your code problem
+- 📫 How to reach me: [ridoananda123@gmail.com](mailto:ridoananda123@gmail.com)
+
+
+
